@@ -11,7 +11,7 @@ class Imagen():
 
 class Ventana():
     def reproducir(self):
-        pass
+        print("Reproduciendo...")
 
     def volumen(self):
         pass

@@ -9,4 +9,12 @@ class Imagen():
     def binarizacion(self):
         pass
 
-    
+class Ventana():
+    def reproducir(self):
+        pass
+
+    def volumen(self):
+        pass
+
+    def fourier(self):
+        pass

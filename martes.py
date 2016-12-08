@@ -18,3 +18,13 @@ class Ventana():
 
     def fourier(self):
         pass
+
+class Video():
+    def reproducir(self):
+        pass
+
+    def pausa(self):
+        pass
+
+    def adelantar(self):
+        pass
